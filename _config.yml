@@ -1,0 +1,13 @@
+markdown: rdiscount
+highlighter: pygments
+rdiscount:
+  extensions: [smart, autolink]
+
+comments :
+   provider: disqus
+   disqus:
+     short_name:  habedisblog
+
+name: Hassan Abedi's blog
+description: Hassan Abedi's personal page and other stuff blog
+url: http://habedi.github.com
