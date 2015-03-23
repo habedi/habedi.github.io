@@ -75,7 +75,7 @@
     <!-- Google Analytics end -->
   
   <div id='footer'>
-      Copyright &copy; 2009 Scott Chacon. Theme and code by <a href="http://github.com/mbleigh">Michael Bleigh</a>. Hosted by <a href='https://github.com/habedi/habedi.github.io' target='_blank'>GitHub</a> and powered by <a href='http://github.com/mojombo/jekyll'>Jekyll</a>.
+      Copyright &copy; 2009 Scott Chacon. Theme and code by <a href="http://github.com/mbleigh">Michael Bleigh</a>. Hosted by <a href='http://github.com/habedi/habedi.github.io/' target='_blank'>GitHub</a> and powered by <a href='http://github.com/mojombo/jekyll'>Jekyll</a>.
     </div>
   
   </body>
