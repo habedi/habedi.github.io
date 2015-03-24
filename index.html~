@@ -10,7 +10,7 @@ title: meBlog
     class='body'>{{ site.posts.first.content }}
     
     <!-- TOP RIGHT RIBBON: START COPYING HERE -->
-    <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon-wrapper right">
         <div class="github-fork-ribbon">
             <a href="https://github.com/habedi/habedi.github.io">Fork me on GitHub;0)</a>
         </div>
