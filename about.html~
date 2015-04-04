@@ -8,7 +8,7 @@
     <meta name="description" content="a sample blog">
     <meta name="author" content="hassan abedi" >
     <title>
-           A little 'bout me
+           About me
     </title> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
     <script src="https://maps.googleapis.com/maps/api/js"></script>
