@@ -28,7 +28,7 @@
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
 
   /* Set the font */
-  font: 700 13px Consolas, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 700 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   z-index: 9999;
   pointer-events: auto;
