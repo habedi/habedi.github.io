@@ -18,7 +18,7 @@ Nevertheless it baffles me how good chronicles of someone's life as Turing could
 As a last word, i strongly suggest to everybody to have a look at Turing's seminal article that the name of the film is taken from. you can read it online from <a href="http://www.loebner.net/Prizef/TuringArticle.html">The Imitation Game</a>. it argues for the first time many ideas that are crucial for existence of field of AI, things like what is a thinking machine!? and what we may need to make one!. 
 
 
-
+---
 
 
 
