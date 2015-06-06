@@ -9,7 +9,7 @@ published: true
 summary: Some really nice quotes to be shared!
 ---
 
-I've just finished compiling a list of love quotes (in my humble opinion) mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further adue let's have a look at these bunch of lovely words:
+I've just finished compiling a list of love quotes (in my humble opinion) mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these bunch of lovely words:
 
     "bonus vir semper tiro" ~ "a good man is always learning"
 
@@ -25,7 +25,7 @@ I've just finished compiling a list of love quotes (in my humble opinion) mostly
 
     "exigua pars est vitae quam nos vivimus" (Seneca) ~ "the part of life that we really live is short"
 
-    "natura vero nihil hominibus brevitate vitae praestitit melius" (Pliny the Elder) ~ "nature has grantedman no better gift than the brevity of life"
+    "natura vero nihil hominibus brevitate vitae praestitit melius" (Pliny the Elder) ~ "nature has granted man no better gift than the brevity of life"
 
     "nihil scire est vita jucundissima" ~ "to know nothing at all is the happiest life"
 
