@@ -51,3 +51,5 @@ I've just finished compiling a list of love quotes (in my humble opinion) mostly
 
 + 	bella detesta matribus (Horace) ~ wars, the horror of mothers
 
++ 	quocunque trahunt Fata, sequamur (Vergil) ~ wherever the Fates direct us let us follow
+
