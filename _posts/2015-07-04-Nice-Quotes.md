@@ -53,3 +53,4 @@ I've just finished compiling a list of love quotes (in my humble opinion) mostly
 
 + 	quocunque trahunt Fata, sequamur (Vergil) ~ wherever the Fates direct us let us follow
 
++	remember, video games qualify as art (myself;0))
