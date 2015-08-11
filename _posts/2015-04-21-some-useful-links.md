@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great things i've found
+title: Great things I've found
 ---
 
 I've just decided to share whatever i find interesting on the web with you people, actually there are tonnes of such stuff out there!, still some are more remarkable to me, so without further a due let me show you what i've found so far:
@@ -14,7 +14,7 @@ I've just decided to share whatever i find interesting on the web with you peopl
 
   * <a href="http://en.wikipedia.org/wiki/Time_of_Contempt/">Time of Contempt</a>: It's a great book, i mean i love the way Andrzej Sapkowski(the author) twists and turns the story, also the characters especially Geralt and Yennefer aren't saints but save to some time it took me to get to the atmosphere of the world that the story happens in altogether it's really a good read!, i strongly suggest you give Witcher series of books(especially this one) a try!, btw books are a (wo)man's best friends!(besides diamonds and dogs of-course!;0)).  
 
-   * <a href="https://xkcd.com/927/">XKCD 927</a>: NO!! I won't say anything, you just see for yourself!;0). 
+   * <a href="https://xkcd.com/927/">XKCD 927</a>: NO!! I won't say anything this time, you just see for yourself!;0). 
 
 
 

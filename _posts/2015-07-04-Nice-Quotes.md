@@ -14,6 +14,7 @@ I've just finished compiling a list of love quotes (in my humble opinion) mostly
 + 	bonus vir semper tiro ~ a good man is always learning
 
 + 	carpe diem, quam minimum (or minime) credula postero (Horace) ~ seize the day, trusting little in tomorrow
+(CAUTION: IT'S THE CATCHPHRASE OF MANY OF THE GREATEST PROCRASTORS WHO EVER LIVED TO THIS DAY!)
 
 + 	causarum ignoratio in re nova mirationem facit (Cicero) ~ in extraordinary events ignorance of their causes produces astonishment
 
