@@ -9,7 +9,7 @@ published: true
 summary: Some really nice quotes to be shared!
 ---
 
-I've just finished compiling a list of love quotes (in my humble opinion) mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these bunch of lovely words:
+I've just finished compiling a list of lovely quotes (in my humble opinion) mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these bunch of lovely words:
 
 + 	bonus vir semper tiro ~ a good man is always learning
 
