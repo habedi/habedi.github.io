@@ -3,3 +3,6 @@
 *.log
 *.bak
 .Rhistory
+*.txt
+*.mdx
+*.py
