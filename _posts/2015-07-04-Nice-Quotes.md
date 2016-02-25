@@ -9,7 +9,7 @@ published: true
 summary: Some really nice quotes to be shared!
 ---
 <span style="color:black; font-family:Consolas; font-size:1.2em;">
-I've just finished compiling a list of quotes, mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these lovely words: </span>
+I've just finished compiling a list of quotes, mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these lovely gems: </span>
 
 + 	<span style="color:darkblue; font-family:Arial; font-size:1.2em;">bonus vir semper tiro ~ "a good man is always learning" </span>
 
@@ -55,4 +55,4 @@ I've just finished compiling a list of quotes, mostly from ancient Roman philoso
 
 +	<span style="color:darkblue; font-family:Arial; font-size:1.2em;">remember, video games qualify as art (myself obviously;0)) </span>
 
-+ 	<span style="color:darkblue; font-family:Arial; font-size:1.2em;">Pulvis et umbra sumus (Horace) ~ We are but dust and shadow </span>
++ 	<span style="color:darkblue; font-family:Arial; font-size:1.2em;">pulvis et umbra sumus (Horace) ~ We are but dust and shadow </span>
