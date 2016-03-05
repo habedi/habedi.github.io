@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 rdiscount:
   extensions: [smart, autolink]
@@ -9,5 +9,5 @@ comments :
      short_name:  habedisblog
 
 name: Hassan Abedi's blog
-description: My personal page and other things
+description: My personal homepage
 url: http://habedi.github.com
