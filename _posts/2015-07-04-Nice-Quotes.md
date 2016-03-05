@@ -11,7 +11,7 @@ summary: Some really nice quotes to be shared!
 <span style="color:black; font-family:Consolas; font-size:1.2em;">
 I've just finished compiling a list of quotes, mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these lovely gems: </span>
 
-+ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">bonus vir semper tiro ~ "a good man is always learning" </span>
++ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">bonus vir semper tiro ~ a good man is always learning </span>
 
 + 	<span style="color:purple; font-family:Arial; font-size:1.2em;">carpe diem, quam minimum (or minime) credula postero (Horace) ~ seize the day, trusting little in tomorrow (CAUTION: IT'S THE CATCHPHRASE OF MANY OF THE GREATEST PROCRASTERS WHO EVER LIVED TO THIS DAY!) </span>
 
