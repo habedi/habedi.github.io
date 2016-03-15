@@ -13,7 +13,7 @@ I've just finished compiling a list of quotes, mostly from ancient Roman philoso
 
 + 	<span style="color:purple; font-family:Arial; font-size:1.2em;">bonus vir semper tiro ~ a good man is always learning </span>
 
-+ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">carpe diem, quam minimum (or minime) credula postero (Horace) ~ seize the day, trusting little in tomorrow (CAUTION: IT'S THE CATCHPHRASE OF MANY OF THE GREATEST PROCRASTERS WHO EVER LIVED TO THIS DAY!) </span>
++ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">carpe diem, quam minimum (or minime) credula postero (Horace) ~ seize the day, trusting little in tomorrow </span>
 
 + 	<span style="color:purple; font-family:Arial; font-size:1.2em;">causarum ignoratio in re nova mirationem facit (Cicero) ~ in extraordinary events ignorance of their causes produces astonishment </span>
 
@@ -21,7 +21,7 @@ I've just finished compiling a list of quotes, mostly from ancient Roman philoso
 
 + 	<span style="color:purple; font-family:Arial; font-size:1.2em;">winning is a good habit;0) </span>
 
-+ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">your life has a limit, but knowledge has none. if you use what is limited to pursue what has no limit, you will be in danger. (Zhuangzi) </span>
++ 	<span style="color:purple; font-family:Arial; font-size:1.2em;">your life has a limit, but knowledge has none; if you use what is limited to pursue what has no limit, you will be in danger (Zhuangzi) </span>
 
 + 	<span style="color:purple; font-family:Arial; font-size:1.2em;">exigua pars est vitae quam nos vivimus (Seneca) ~ the part of life that we really live is short </span>
 
