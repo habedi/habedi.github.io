@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://habedi.github.io' rel='self' type='application/rss+xml'/>
+<title>
+Hassan Abedi's Blog
+</title>
+<link>
+http://habedi.github.io
+</link>
+<description>
+My Blog
+</description>
+<lastBuildDate>
+Sat, 16 Jul 2016 23:11:19 +0430
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://habedi.github.io/blog/posts-output/2015-07-04-nice-quotes/
+</guid>
+<link>
+http://habedi.github.io/blog/posts-output/2015-07-04-nice-quotes/
+</link>
+<title>
+Some really nice quotes
+</title>
+<description>
+&lt;p&gt;&lt;span style=&quot;color:black; font-family:Consolas; font-size:1.2em;&quot;&gt; I've just finished compiling a list of quotes, mostly from ancient Roman philosophers and orators and poets such as Horace and Vergil and Cicero that I want to share with you folks, so without further ado let's have a look at these lovely gems: &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;bonus vir semper tiro ~ a good man is always learning &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;carpe diem, quam minimum (or minime) credula postero (Horace) ~ seize the day, trusting little in tomorrow &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;causarum ignoratio in re nova mirationem facit (Cicero) ~ in extraordinary events ignorance of their causes produces astonishment &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;the availability of books is not the same as reading them, nor reading the same as understanding them (Tristram Shandy) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;winning is a good habit;0) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;your life has a limit, but knowledge has none; if you use what is limited to pursue what has no limit, you will be in danger (Zhuangzi) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;exigua pars est vitae quam nos vivimus (Seneca) ~ the part of life that we really live is short &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;natura vero nihil hominibus brevitate vitae praestitit melius (Pliny the Elder) ~ nature has granted man no better gift than the brevity of life &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;nihil scire est vita jucundissima ~ to know nothing at all is the happiest life &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;insanus omnis furere credit caeteros (Publilius Syrus) ~ madman thinks all others are insane &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;vivere est cogitare (Cicero) ~ to live is to think &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;despicio terrena et solem contemplor ~ I despise earthly things and contemplate the sun &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;cineres credis curare sepultos? ~ do you think that the ashes of the dead can beaffected by this? (i.e., do you think the dead can be affected by the thoughts or actions of the living?) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;nunquam sero te venisse putabo, si salvus veneris (Cicero) ~ I shall never think that you are late arriving, provided you arrive safely &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;omnia jam fient, fieri quae posse negabam; et nihil est de quo non sit habendafides (Ovid) ~ all things will now come to pass that I used to think impossible; and there is nothing that we may not hope to see take place &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;sed quis custodiet ipsos custodes? (Juvenal) ~ but who will guard the guardians themselves &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;acclinus falsis animus meliora recusat (Horace) ~ the mind attracted by what is false refuses better things &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;cum corpore mentem crescere sentimus pariterque senescere (Lucretius) ~ we find that, as the mind strengthens with the body, it decays with it in like manner &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;pulchra mulier nuda erit quam purpurata pulchrior (Plautus) ~ a beautiful woman is more beautiful undressed than dressed in fine purple &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;bella detesta matribus (Horace) ~ wars, the horror of mothers &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;quocunque trahunt Fata, sequamur (Vergil) ~ wherever the Fates direct us let us follow &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;remember, video games qualify as art (myself obviously;0)) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:purple; font-family:Arial; font-size:1.2em;&quot;&gt;pulvis et umbra sumus (Horace) ~ we are but dust and shadow &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Sat, 04 Jul 2015 00:00:00 +0430
+</pubDate>
+</item>
+</channel>
+</rss>

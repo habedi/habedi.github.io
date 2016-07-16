@@ -1,15 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://habedi.github.io/</loc>
-    <lastmod>2016-05-21T23:33:36+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/nice-quotes/</loc>
-    <lastmod>2016-05-21T23:33:36+04:30</lastmod>
-  </url>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url>
+<loc>
+http://habedi.github.ioblog/404.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/tags/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/pages-output/another-page/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/pages-output/about/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/tags-output/Latin Quotes/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/tags-output/Quotes/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/tags-output/Poetry/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/archives/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/posts-output/2015-07-04-nice-quotes/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://habedi.github.ioblog/authors-output/Hassan Abedi/index.html
+</loc>
+<lastmod>
+2016-07-16
+</lastmod>
+</url>
 </urlset>
