@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://habedi.github.io' rel='self' type='application/rss+xml'/>
+<atom:link href='https://habedi.github.io' rel='self' type='application/rss+xml'/>
 <title>
 Hassan Abedi's Blog
 </title>
 <link>
-http://habedi.github.io
+https://habedi.github.io
 </link>
 <description>
 My Blog
 </description>
 <lastBuildDate>
-Sat, 16 Jul 2016 23:11:19 +0430
+Fri, 05 Aug 2016 20:46:13 +0430
 </lastBuildDate>
 <generator>
 clj-rss
