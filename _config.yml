@@ -1,30 +1,30 @@
-title:            HMFAYSAL V2
+title:            Habedi.me
 tagline:          Life without Pants!
 description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://habedi.github.com/
+url:              http://habedi.me/
 
 # Owner/author information
 owner:
   name:           Hassan Abedi
   avatar:         bio-photo.jpg
   bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  
+  email:          hassan.abedi.t@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  linkedin:       
+  twitter:        Hassan_Abedi
+  facebook:       
+  github:         habedi
+  linkedin:       habedi7
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-4
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -47,7 +47,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Tehran
 future:      true
 pygments:    true
 markdown:    kramdown
