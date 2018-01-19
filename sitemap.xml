@@ -1,44 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://habedi.github.io/</loc>
-    <lastmod>2017-06-04T14:00:28+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/value-of-free-thought/</loc>
-    <lastmod>2017-06-04T14:00:28+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/on-shortness-of-life/</loc>
-    <lastmod>2017-06-03T17:45:28+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/american-scholar/</loc>
-    <lastmod>2017-06-02T19:20:14+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/crisis-1/</loc>
-    <lastmod>2017-06-02T18:37:14+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/in-praise-of-idleness/</loc>
-    <lastmod>2016-08-26T23:20:10+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/what-is-enlightenment/</loc>
-    <lastmod>2016-08-26T23:20:10+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://habedi.github.io/post/a-few-quotes/</loc>
-    <lastmod>2016-08-05T22:02:14+04:30</lastmod>
-  </url>
-  
+    <url>
+        <loc>{{ site.url }}</loc>
+    </url>
+    
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+    </url>
+    {% endfor %}
 </urlset>
