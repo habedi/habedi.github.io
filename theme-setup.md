@@ -88,15 +88,15 @@ links:
     url: /
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Posts
+    url: /posts/
   - title: Setup
     url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
-    external: true
+#  - title: T-Details
+#    url: /technical-details/
+# - title: The Evil-Genius
+#    url: http://www.theevilgenius.tk/
+#    external: true
 {% endhighlight %}
 
 ### Adding Posts and Pages
