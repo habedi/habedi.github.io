@@ -162,7 +162,7 @@ stream.filter(track=['btc'])
 ```
 
 #### Starting to listen to the public tweets for 'btc' and storing them to the **localhost['tweet_stream']['btc']**
-**localhost['tweet_stream']['btc']** is a RethinkDB server listening on **localhost** that contain a database named **tweet_stream** which in turn has a table called **btc** in it.
+**localhost['tweet_stream']['btc']** is a RethinkDB server listening on **localhost** that contains a database named **tweet_stream** which in turn has a table called **btc** in it.
 
 
 ```python
