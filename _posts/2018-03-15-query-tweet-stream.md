@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Capturing Twitter's public tweet stream with Python and RethinkDB"
-tagline: "Capturing tweet stream"
+tagline: ""
 description: "Twitter API can be used to harvest public tweets in real-time"
 category: articles
 tags: [python, jupyter_notebook, tweet_stream, api]
 ---
 
 
-# Capturing Public Tweet Stream
 You can easily collect public tweets from Twitter.com using its api. I used [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter api. I store the captured real time tweet stream for **\#btc** inside a [RethinkDB](https://www.rethinkdb.com).
 
 ### Twitter API
