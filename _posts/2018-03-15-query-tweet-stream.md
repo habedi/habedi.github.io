@@ -55,7 +55,7 @@ access_token_secret="ACCESS TOKEN SECRET"
 
 #### Creating a tweet stream listener class
 
-1. ***to_stdout_listener***: Prints the tweets to the **stdout**
+1. ***to_stdout_listener***: Prints the tweets to **stdout**
 1. ***to_file_listener***: Write out the tweets to a **directory on the file-system**
 1. ***to_rethinkdb_listener***: Store the tweets to a **RethinkDB instance**
 
@@ -137,7 +137,7 @@ def make_stream_pipe(consumer_key, consumer_secret,
     return Stream(auth, listener)
 ```
 
-#### Starting to listen to the public tweets for 'btc' and printing them to the stdout
+#### Starting to listen to the public tweets for 'btc' and printing them to stdout
 
 
 ```python
@@ -161,7 +161,7 @@ stream = make_stream_pipe(consumer_key, consumer_secret,
 stream.filter(track=['btc'])
 ```
 
-#### Starting to listen to the public tweets for 'btc' and storing them to the **localhost['tweet_stream']['btc']**
+#### Starting to listen to the public tweets for 'btc' and storing them to **localhost['tweet_stream']['btc']**
 **localhost['tweet_stream']['btc']** is a RethinkDB server listening on **localhost** that contains a database named **tweet_stream** which in turn has a table called **btc** in it.
 
 
