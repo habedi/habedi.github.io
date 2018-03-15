@@ -8,10 +8,10 @@ tags: [python, jupyter_notebook, tweet_stream, api]
 ---
 
 
-You can easily collect public tweets from Twitter.com using its api. In this post I demonstrate how to use [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter api and call its API to capture tweets. We will store the captured real-time tweets for term **\#btc** inside a NoSQL data-store named RethinkDB to show how everything is going to be done. RethinkDB is a NoSQL Data-store used mainly to store and retrieve real-time JSON data streams, for further info please visit [RethinkDB website](https://www.rethinkdb.com).
+You can easily collect public tweets from Twitter.com using its API. In this post I demonstrate how to use [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter API and query it to capture tweets. We will store the captured real-time tweets for term **\#btc** inside a NoSQL data-store named RethinkDB to show how everything is going to be done. RethinkDB is a NoSQL Data-store used mainly to store and retrieve real-time JSON data streams, for further info please visit [RethinkDB website](https://www.rethinkdb.com).
 
 ### Twitter API
-In order to use twitter api we need a twitter account(obvoiusly) and you also need to create a twitter app then add an access token for that app to access twitter api via your account. Plese see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
+In order to use twitter API we need a twitter account(obvoiusly) and you also need to create a twitter app then add an access token for that app to access twitter API via your account. Plese see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
 
 ### RethinkDB:
 Please visit [RethinkDB](https://www.rethinkdb.com) for more instruction on how to install RethinkDB on your machine.
