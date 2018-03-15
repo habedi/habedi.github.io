@@ -13,7 +13,7 @@ You can easily collect public tweets from Twitter.com using its API. In this pos
 In order to use Twitter API we need a Twitter account(obviously) then you will need to create a Twitter app with your account, After that you must add an access token for the app you've just created so you could be able to access Twitter API with two pair of keys that is generated through out this procedure. Please see the [Twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details on creating a Twitter App.
 
 ### The Code
-The rest of this writing is consisted of various Python code snippets showing the sequences of the steps you need to take to call Twitter API and store the resulting public tweets, we search for the tweets related to Bitcoin by querying the Twitter API with the term **btc** and store the results. 
+The rest of this writing is consisting of various Python code snippets showing the steps you need to take to call Twitter API and store the resulting public tweets, We search for the tweets related to Bitcoin by querying the Twitter API with the term **btc** and store the captured tweets. 
 
 #### Loading Python modules
 
