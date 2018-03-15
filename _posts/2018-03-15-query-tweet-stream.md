@@ -32,7 +32,6 @@ pandas.set_option('display.max_rows', 10)
 pandas.set_option('display.max_columns', 10)
 ```
 
-
 ```python
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
@@ -41,7 +40,6 @@ from tweepy import Stream
 
 #### Twitter API's keys
 Go to [http://apps.twitter.com](http://apps.twitter.com) and create a Twitter App for your Twitter account.
-
 
 ```python
 # Go to http://apps.twitter.com and create an app.
@@ -62,7 +60,6 @@ access_token_secret="ACCESS TOKEN SECRET"
 1. ***to_rethinkdb_listener***: Store the tweets to a **RethinkDB instance**
 
 Tweets are in **JSON** format.
-
 
 ```python
 class BaseStreamListener(StreamListener):
