@@ -4,14 +4,14 @@ title: "Capturing Twitter's public tweet stream with Python and RethinkDB"
 tagline: ""
 description: "Twitter API can be used to harvest public tweets in real-time"
 category: articles
-tags: [python, jupyter_notebook, tweet_stream, api]
+tags: [python, jupyter_notebook, tweet_stream, API]
 ---
 
 
 You can easily collect public tweets from Twitter.com using its API. In this post I demonstrate how to use [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter API and query it to capture tweets. We will store the captured real-time tweets for term **\#btc** inside a NoSQL data-store named RethinkDB to show how everything is going to be done. RethinkDB is a NoSQL Data-store used mainly to store and retrieve real-time JSON data streams, for further info please visit [RethinkDB website](https://www.rethinkdb.com).
 
 ### Twitter API
-In order to use twitter API we need a twitter account(obvoiusly) and you also need to create a twitter app then add an access token for that app to access twitter API via your account. Plese see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
+In order to use Twitter API we need a Twitter account(obviously) and you also need to create a Twitter app then add an access token for that app to access Twitter API via your account. Please see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
 
 ### RethinkDB:
 Please visit [RethinkDB](https://www.rethinkdb.com) for more instruction on how to install RethinkDB on your machine.
@@ -61,7 +61,7 @@ access_token_secret="ACCESS TOKEN SECRET"
 #### Creating a tweet stream listener class
 
 1. ***to_stdout_listener***: Prints the tweets to the **stdout**
-1. ***to_file_listener***: Write out the tweets to a **directory on the filesystem**
+1. ***to_file_listener***: Write out the tweets to a **directory on the file-system**
 1. ***to_rethinkdb_listener***: Store the tweets to a **RethinkDB instance**
 
 Tweets are in **JSON** format.
@@ -155,7 +155,7 @@ stream = make_stream_pipe(consumer_key, consumer_secret,
 stream.filter(track=['btc'])
 ```
 
-#### Starting to listen to the public tweets for 'btc' and writing them them to a path on the filesystem
+#### Starting to listen to the public tweets for 'btc' and writing them them to a path on the file-system
 
 
 ```python
