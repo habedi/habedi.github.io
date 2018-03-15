@@ -8,10 +8,10 @@ tags: [python, jupyter_notebook, tweet_stream, api]
 ---
 
 
-You can easily collect public tweets from Twitter.com using its api. I used [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter api. I store the captured real time tweet stream for **\#btc** inside a [RethinkDB](https://www.rethinkdb.com).
+You can easily collect public tweets from Twitter.com using its api. In this post I demonstrate how to use [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter api and call its API to capture tweets. We will store the captured real-time tweets for term **\#btc** inside a NoSQL data-store named RethinkDB to show how everything is going to be done. RethinkDB is a NoSQL Data-store used mainly to store and retrieve real-time JSON data streams, for further info please visit [RethinkDB website](https://www.rethinkdb.com).
 
 ### Twitter API
-In order to use twitter api we need a twitter account (obvoiusly) and you also need to create a twitter app then add an access token for that app to access twitter api via your account. Plese see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
+In order to use twitter api we need a twitter account(obvoiusly) and you also need to create a twitter app then add an access token for that app to access twitter api via your account. Plese see the [twitter developer docs](https://developer.twitter.com/en/docs/basics/authentication/overview) for the details.
 
 ### RethinkDB:
 Please visit [RethinkDB](https://www.rethinkdb.com) for more instruction on how to install RethinkDB on your machine.
@@ -30,7 +30,6 @@ import rethinkdb
 # need this for using pandas built-in plotting facility
 import matplotlib.pyplot as plt
 %matplotlib inline
-
 
 pandas.set_option('display.max_rows', 10)
 pandas.set_option('display.max_columns', 10)
@@ -74,7 +73,6 @@ class BaseStreamListener(StreamListener):
     def on_error(self, status):
         print(status)
     
-
 class to_stdout_listener(BaseStreamListener):
     """ A listener handles tweets that are received from the stream.
     This is a basic listener that just prints received tweets to stdout.
@@ -121,17 +119,13 @@ class to_rethinkdb_listener(BaseStreamListener):
         self.connexion.close()
     
     def on_data(self, data):
-            
         if self.create_db:
-            
             try:
                 rethinkdb.db_drop(self.db).run(self.connexion)
             except Exception as err:
                 print(error)
-            
             rethinkdb.db_create(self.db).run(self.connexion)
             rethinkdb.db(self.db).table_create(self.table).run(self.connexion)
-        
         try:
             tweet_data = json.loads(data)
             rethinkdb.db(self.db).table(self.table).insert(tweet_data).run(self.connexion)
@@ -139,7 +133,6 @@ class to_rethinkdb_listener(BaseStreamListener):
             print(error)
         else:
             print("written tweet data %s to rethinkdb" % tweet_data['id_str'])
-        
         return True
     
 def make_stream_pipe(consumer_key, consumer_secret,
@@ -192,8 +185,7 @@ stream = make_stream_pipe(consumer_key, consumer_secret,
 stream.filter(track=['btc'])
 ```
 
-#### You can detach from the tweet stream via calling 'disconnect' of a stream listener object
-
+#### You can detach from the tweet stream via calling 'disconnect' method from a stream listener object
 
 ```python
 # close the stream
@@ -201,7 +193,6 @@ stream.disconnect()
 ```
 
 #### You also can use this snippet to close a to_rethinkdb_listener object
-
 
 ```python
 if isinstance(listener, to_rethinkdb_listener):
