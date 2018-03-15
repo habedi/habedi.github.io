@@ -2,7 +2,7 @@
 layout: post
 title: "Capturing Twitter's public tweets with Python"
 tagline: ""
-description: "Twitter API can be used to harvest public tweets in real-time"
+description: "Demonstrating how to use Twitter API to harvest and store public tweets related to a particular term in real-time"
 category: articles
 tags: [python, jupyter_notebook, tweet_stream, API]
 ---
