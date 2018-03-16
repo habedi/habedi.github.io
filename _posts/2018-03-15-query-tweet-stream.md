@@ -55,7 +55,7 @@ access_token_secret="ACCESS TOKEN SECRET"
 
 #### Creating a tweet stream listener class
 
-1. ***to_stdout_listener***: Prints the tweets to **stdout**
+1. ***to_stdout_listener***: Print the tweets to **stdout**
 1. ***to_file_listener***: Write out the tweets to a **directory on the file-system**
 1. ***to_rethinkdb_listener***: Store the tweets to a **RethinkDB instance**
 
