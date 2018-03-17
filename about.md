@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: HMFAYSAL V2, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: About me
+tagline: 
+tags: [about, habedi, me, bio]
 modified: 9-9-2013
 image:
   feature: texture-feature-02.jpg
