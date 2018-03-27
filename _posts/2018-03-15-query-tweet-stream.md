@@ -4,7 +4,7 @@ title: "Capturing Twitter's public tweets with Python"
 tagline: ""
 description: "Demonstrating how to use Twitter API to harvest and store public tweets related to a particular term in real-time"
 category: articles
-tags: [python, jupyter_notebook, tweet_stream, API]
+tags: [python, jupyter_notebook, tweet_stream, api]
 ---
 
 You can easily collect public tweets from Twitter.com using its API. In this post I demonstrate how to use [Tweetpy](https://github.com/tweepy/tweepy) Python package to connect to Twitter API and query in order to capture tweets. We will store the captured real-time tweets related to Bitcoin inside a NoSQL data-store. We use RethinkDB as the backend data-store, It is a document-based NoSQL data-store used mainly to store and retrieve real-time JSON data streams, For further info and instructions on how to install RethinkDB on your machine please visit [RethinkDB website](https://www.rethinkdb.com).
