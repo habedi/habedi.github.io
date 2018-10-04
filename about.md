@@ -11,9 +11,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-ABOUT ME
-
-	I am a citizen of the world. I have worked as a computer engineer, in short it means that I had the chance to do what I find most interesting until now, including developing code, working with various data processing and management tools and platforms. This is my personal homepage, where you can find the I stuff I uasually care about.
+I am a citizen of the world. I have worked as a computer engineer, in short it means that I had the chance to do what I find most interesting until now, including developing code, working with various data processing and management tools and platforms. This is my personal homepage, where you can find the I stuff I uasually care about.
 
 Hassan Abedi
 
