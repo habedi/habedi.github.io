@@ -8,7 +8,7 @@ layout: default
 
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
 
-  <ul class="post-list">
+<!--   <ul class="post-list">
     {% for post in paginator.posts %}
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
@@ -44,7 +44,7 @@ layout: default
         {% endif %}
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
   {% include pagination.html %}
 
