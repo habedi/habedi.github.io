@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Pages
+title: Hassan Abedi
 author: Hassan Abedi
-description: Minimal, responsive Jekyll theme for hackers.
+description: Trinkets, odds and ends, that sort of things
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://habedi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
@@ -32,18 +32,22 @@ exclude:
   - vendor
 
 # Social media
-twitter_username:
+twitter_username: Hassan_Abedi
 twitter_image:
 facebook_app_id:
 facebook_image:
 google_analytics:
-comments: false
+comments: true
 
 # Plugins
 plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
