@@ -1,9 +1,5 @@
-*~
-*#
-*.log
-*.bak
-.Rhistory
-*.txt
-*.mdx
-*.py
-temp/
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
