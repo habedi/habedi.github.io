@@ -48,6 +48,9 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
