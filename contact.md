@@ -15,5 +15,5 @@ permalink: /contact/
 **Github**:  [habedi](https://github.com/habedi)\
 **Bitbucket**:  [habedi](https://bitbucket.org/habedi/)\
 **Stackoverflow**: [habedi](https://stackoverflow.com/users/4414921/habedi)\
-**Kaggle**: [habedi](https://www.kaggle.com/habedi)\
+**Kaggle**: [habedi](https://www.kaggle.com/habedi)
 
