@@ -5,8 +5,6 @@ permalink: /contact/
 ---
 
 
-# Contact
-
 ### Hassan Abedi Firouzjaei
 **Email**: hassan.abedi [at] ntnu [dot] no
 **Address**: NTNU - Gløshaugen campus (IT-bygget, Room 246)
