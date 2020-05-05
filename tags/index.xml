@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Hassan Abedi&#39;s blog</title>
+    <title>Tags | Hassan Abedi</title>
     <link>https://habedi.github.io/tags/</link>
       <atom:link href="https://habedi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
